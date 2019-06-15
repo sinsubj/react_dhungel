@@ -1,0 +1,25 @@
+/1_node-basic
+/3_fullstack
+/my-app
+/nodeapi/node_modules
+/react-front/node_modules
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-front/node_modules
+/react-front/.pnp
+/react-front/.pnp.js
+
+# testing
+/react-front/coverage
+
+# production
+/react-front/build
+
+# misc
+/react-front/.env
+/nodeapi/.env
+*.pdf
+*.log
+*.env
