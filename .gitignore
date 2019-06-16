@@ -7,8 +7,6 @@
 /nodeapi/node_modules
 /react-front/node_modules
 
-
-
 # misc
 /react-front/.env
 /nodeapi/.env
